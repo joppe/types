@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "experimentalDecorators": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "strictBindCallApply": true,
+    "strictNullChecks": true,
+    "target": "es6"
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
