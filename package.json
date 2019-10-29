@@ -5,8 +5,8 @@
   "scripts": {
     "lint": "tslint --config ./tslint.json --project tsconfig.json"
   },
-  "main": "src/types/index",
-  "typings": "src/types/index",
+  "main": "src/index",
+  "typings": "src/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/joppe/types"
